@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jonny/CLionProjects/TCPIP/client.cpp
+iostream
+-
+cstdio
+-
+cstdlib
+-
+cmath
+-
+cstring
+-
+string
+-
+climits
+-
+algorithm
+-
+queue
+-
+vector
+-
+netinet/in.h
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+unistd.h
+-
+fstream
+-
+

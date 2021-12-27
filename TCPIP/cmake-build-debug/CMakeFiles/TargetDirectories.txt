@@ -1,0 +1,6 @@
+/Users/jonny/CLionProjects/TCPIP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jonny/CLionProjects/TCPIP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jonny/CLionProjects/TCPIP/cmake-build-debug/CMakeFiles/client2.dir
+/Users/jonny/CLionProjects/TCPIP/cmake-build-debug/CMakeFiles/server.dir
+/Users/jonny/CLionProjects/TCPIP/cmake-build-debug/CMakeFiles/client.dir
+/Users/jonny/CLionProjects/TCPIP/cmake-build-debug/CMakeFiles/TCPIP.dir
